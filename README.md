@@ -7,7 +7,7 @@ Aspiring polymath, entrepreneur, and software engineer.
 Over the past decade, I have worked with, either extensively or as a contribution to larger projects, several languages, frameworks, and libraries. Currently, I am working as a contract application developer with a broad technology base and over a decade of overall development experience in all phases of the software development life cycle. So if you would like to geek out over AI information systems, talk shop about the changing role of tech and accountability, or collaborate on application development, feel free to reach out.
 
 * 🌍  I'm a New England native currently based in Central Florida. 
-* 🤝  I'm open to collaborating on Bioinformatics, biotechnology, healthcare, and travel.
+* 🤝  I'm open to collaborating on bioinformatics, biotechnology, healthcare, and travel.
 
 ### Skills
 
